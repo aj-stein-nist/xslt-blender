@@ -1,6 +1,7 @@
 # XSLT Blender
 
 Sample commit #1.
+Sample commit #2.
 
 A library of XML/XSLT functionality for execution in a browser, illustrated through demonstrations.
 
